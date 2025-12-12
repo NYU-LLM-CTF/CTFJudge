@@ -1,5 +1,5 @@
 # CTFJudge: LLM as a Judge for Offensive Security Agents
-This is the official repository for CTFJudge from [paper](https://arxiv.org/abs/2508.05674) "Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark" (AAAI'26).
+This is the official repository for CTFJudge from "Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark" (AAAI'26) [[paper](https://arxiv.org/abs/2508.05674)].
 
 For CTFTiny benchmark, please refer to [CTFTiny Official Repository](https://github.com/NYU-LLM-CTF/CTFTiny/tree/main).
 
